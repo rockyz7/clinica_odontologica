@@ -1,5 +1,8 @@
 # Sistema de reserva de turnos
 
+Java - Spring Boot framework - Maven - JUnit - Hibernate(JPA) - Diseño de API RESTful
+
+
 Se desea implementar un sistema que permita administrar la reserva de turnos para una clínica odontológica. 
 
 Este debe cumplir con los siguientes requerimientos:
