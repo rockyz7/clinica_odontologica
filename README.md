@@ -28,6 +28,6 @@ La aplicación debe ser desarrollada en capas:
 
 - Capa de negocio: son las clases service que se encargan de desacoplar el acceso a datos de la vista.
 
-- Capa de presentación: son las pantallas web que tendremos que desarrollar utilizando el framework de Spring Boot MVC con los controladores y alguna de estas dos opciones: HTML+JavaScript para la vista.
+- Capa de presentación: son las pantallas web que tendremos que desarrollar utilizando el framework de Spring Boot MVC con los controladores y alguna de estas dos opciones: HTML+JavaScript para la vista o ReactJS.
 
 
