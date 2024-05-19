@@ -1,0 +1,144 @@
+[2022-12-12 11:35:14] [ INFO ] [OdontologoService:54] Se están listando los odontólogos
+[2022-12-12 11:35:21] [ INFO ] [OdontologoService:28] Se inició el guardado de un odontólogo con apellido: Montero
+[2022-12-12 11:35:39] [ INFO ] [PacienteService:25] Se inició el guardado de un paciente con apellido: Montero
+[2022-12-12 11:35:49] [ INFO ] [TurnoService:40] Se inició el guardado de un turno con id: null
+[2022-12-12 11:35:59] [ INFO ] [TurnoService:80] Se inició la búsqueda de los turnos
+[2022-12-12 11:36:01] [ INFO ] [TurnoService:71] Se inició la búsqueda del turno con id: 1
+[2022-12-12 11:36:05] [ INFO ] [TurnoService:71] Se inició la búsqueda del turno con id: 1
+[2022-12-12 11:36:05] [ INFO ] [PacienteService:46] Se inició la búsqueda del paciente con id: 1
+[2022-12-12 11:36:05] [ INFO ] [OdontologoService:49] Se inició la búsqueda del odontólogo con id: 1
+[2022-12-12 11:36:05] [ INFO ] [TurnoService:63] Se inició la actualización del turno con id: 1
+[2022-12-12 11:36:05] [ INFO ] [TurnoService:80] Se inició la búsqueda de los turnos
+[2022-12-12 11:36:18] [ INFO ] [TurnoService:71] Se inició la búsqueda del turno con id: 1
+[2022-12-12 11:36:22] [ INFO ] [PacienteService:51] Se están listando los pacientes
+[2022-12-12 11:36:27] [ INFO ] [PacienteService:46] Se inició la búsqueda del paciente con id: 1
+[2022-12-12 11:36:30] [ INFO ] [PacienteService:46] Se inició la búsqueda del paciente con id: 1
+[2022-12-12 11:36:33] [ INFO ] [PacienteService:46] Se inició la búsqueda del paciente con id: 1
+[2022-12-12 11:36:33] [ INFO ] [PacienteService:41] Se inició la actualización del paciente con id: 1
+[2022-12-12 11:36:33] [ INFO ] [PacienteService:51] Se están listando los pacientes
+[2022-12-12 11:36:41] [ INFO ] [PacienteService:46] Se inició la búsqueda del paciente con id: 1
+[2022-12-12 11:36:53] [ INFO ] [TurnoService:80] Se inició la búsqueda de los turnos
+[2022-12-12 11:36:55] [ WARN ] [TurnoService:55] Se inició la eliminación del turno con id: 1
+[2022-12-12 11:39:15] [ INFO ] [OdontologoService:54] Se están listando los odontólogos
+[2022-12-12 11:39:24] [ INFO ] [OdontologoService:28] Se inició el guardado de un odontólogo con apellido: Montero
+[2022-12-12 11:39:33] [ INFO ] [PacienteService:25] Se inició el guardado de un paciente con apellido: Montero
+[2022-12-12 11:39:43] [ INFO ] [TurnoService:40] Se registró un turno para la fecha 2022-12-13
+[2022-12-12 11:40:22] [ INFO ] [PacienteService:51] Se están listando los pacientes
+[2022-12-12 11:40:25] [ INFO ] [PacienteService:46] Se inició la búsqueda del paciente con id: 1
+[2022-12-12 11:40:28] [ INFO ] [OdontologoService:54] Se están listando los odontólogos
+[2022-12-12 11:40:30] [ INFO ] [OdontologoService:49] Se inició la búsqueda del odontólogo con id: 1
+[2022-12-12 11:40:33] [ INFO ] [OdontologoService:49] Se inició la búsqueda del odontólogo con id: 1
+[2022-12-12 11:40:36] [ INFO ] [OdontologoService:49] Se inició la búsqueda del odontólogo con id: 1
+[2022-12-12 11:40:36] [ INFO ] [OdontologoService:44] Se inició la actualización del odontólogo con id: 1
+[2022-12-12 11:40:36] [ INFO ] [OdontologoService:54] Se están listando los odontólogos
+[2022-12-12 11:40:38] [ INFO ] [OdontologoService:49] Se inició la búsqueda del odontólogo con id: 1
+[2022-12-12 11:40:39] [ INFO ] [PacienteService:51] Se están listando los pacientes
+[2022-12-12 11:40:41] [ INFO ] [PacienteService:46] Se inició la búsqueda del paciente con id: 1
+[2022-12-12 11:40:43] [ INFO ] [PacienteService:46] Se inició la búsqueda del paciente con id: 1
+[2022-12-12 11:40:43] [ INFO ] [PacienteService:41] Se inició la actualización del paciente con id: 1
+[2022-12-12 11:40:43] [ INFO ] [PacienteService:51] Se están listando los pacientes
+[2022-12-12 11:40:45] [ INFO ] [PacienteService:46] Se inició la búsqueda del paciente con id: 1
+[2022-12-12 11:40:48] [ INFO ] [TurnoService:80] Se inició la búsqueda de los turnos
+[2022-12-12 11:40:49] [ INFO ] [TurnoService:71] Se inició la búsqueda del turno con id: 1
+[2022-12-12 11:40:53] [ INFO ] [TurnoService:71] Se inició la búsqueda del turno con id: 1
+[2022-12-12 11:40:53] [ INFO ] [PacienteService:46] Se inició la búsqueda del paciente con id: 1
+[2022-12-12 11:40:53] [ INFO ] [OdontologoService:49] Se inició la búsqueda del odontólogo con id: 1
+[2022-12-12 11:40:53] [ INFO ] [TurnoService:63] Se inició la actualización del turno con id: 1
+[2022-12-12 11:40:53] [ INFO ] [TurnoService:80] Se inició la búsqueda de los turnos
+[2022-12-12 11:40:55] [ INFO ] [TurnoService:80] Se inició la búsqueda de los turnos
+[2022-12-12 11:40:57] [ INFO ] [TurnoService:71] Se inició la búsqueda del turno con id: 1
+[2022-12-12 11:53:09] [ INFO ] [OdontologoService:54] Se están listando los odontólogos
+[2022-12-12 11:53:32] [ INFO ] [PacienteService:25] Se inició el guardado de un paciente con apellido: Montero
+[2022-12-12 11:53:37] [ INFO ] [OdontologoService:28] Se inició el guardado de un odontólogo con apellido: Montero
+[2022-12-12 11:53:43] [ INFO ] [TurnoService:40] Se registró un turno para la fecha 2022-12-13
+[2022-12-12 11:53:45] [ INFO ] [TurnoService:80] Se inició la búsqueda de los turnos
+[2022-12-12 11:53:46] [ WARN ] [TurnoService:55] Se eliminó un turno con id: 1
+[2022-12-12 11:53:48] [ INFO ] [PacienteService:51] Se están listando los pacientes
+[2022-12-12 11:53:50] [ INFO ] [PacienteService:46] Se inició la búsqueda del paciente con id: 1
+[2022-12-12 11:53:53] [ INFO ] [OdontologoService:54] Se están listando los odontólogos
+[2022-12-12 11:53:54] [ INFO ] [OdontologoService:49] Se inició la búsqueda del odontólogo con id: 1
+[2022-12-12 12:01:13] [ INFO ] [OdontologoService:28] Se inició el guardado de un odontólogo con apellido: Montero
+[2022-12-12 12:01:13] [ INFO ] [OdontologoService:49] Se inició la búsqueda del odontólogo con id: 1
+[2022-12-12 12:01:13] [ INFO ] [OdontologoService:54] Se están listando los odontólogos
+[2022-12-12 12:01:13] [ INFO ] [OdontologoService:44] Se inició la actualización del odontólogo con id: 1
+[2022-12-12 12:01:13] [ INFO ] [OdontologoService:49] Se inició la búsqueda del odontólogo con id: 1
+[2022-12-12 12:01:13] [ INFO ] [OdontologoService:49] Se inició la búsqueda del odontólogo con id: 1
+[2022-12-12 12:01:13] [ WARN ] [OdontologoService:36] Se inició la eliminación del odontólogo con id: 1
+[2022-12-12 12:01:13] [ INFO ] [OdontologoService:49] Se inició la búsqueda del odontólogo con id: 1
+[2022-12-12 12:01:33] [ INFO ] [PacienteService:25] Se inició el guardado de un paciente con apellido: Montero
+[2022-12-12 12:01:33] [ INFO ] [PacienteService:46] Se inició la búsqueda del paciente con id: 1
+[2022-12-12 12:01:33] [ INFO ] [PacienteService:51] Se están listando los pacientes
+[2022-12-12 12:01:33] [ INFO ] [PacienteService:41] Se inició la actualización del paciente con id: 1
+[2022-12-12 12:01:33] [ INFO ] [PacienteService:46] Se inició la búsqueda del paciente con id: 1
+[2022-12-12 12:01:33] [ INFO ] [PacienteService:46] Se inició la búsqueda del paciente con id: 1
+[2022-12-12 12:01:33] [ WARN ] [PacienteService:33] Se inició la eliminación del paciente con id: 1
+[2022-12-12 12:01:33] [ INFO ] [PacienteService:46] Se inició la búsqueda del paciente con id: 1
+[2022-12-12 12:01:53] [ INFO ] [PacienteService:25] Se inició el guardado de un paciente con apellido: Montero
+[2022-12-12 12:01:53] [ INFO ] [OdontologoService:28] Se inició el guardado de un odontólogo con apellido: Montero
+[2022-12-12 12:01:53] [ INFO ] [TurnoService:40] Se registró un turno para la fecha 2022-11-11
+[2022-12-12 12:01:53] [ INFO ] [TurnoService:71] Se inició la búsqueda del turno con id: 1
+[2022-12-12 12:01:53] [ INFO ] [TurnoService:80] Se inició la búsqueda de los turnos
+[2022-12-12 12:01:53] [ INFO ] [TurnoService:71] Se inició la búsqueda del turno con id: 1
+[2022-12-12 12:01:53] [ INFO ] [TurnoService:63] Se inició la actualización del turno con id: 1
+[2022-12-12 12:01:53] [ INFO ] [TurnoService:71] Se inició la búsqueda del turno con id: 1
+[2022-12-12 12:01:53] [ WARN ] [TurnoService:55] Se eliminó un turno con id: 1
+[2022-12-12 12:01:53] [ ERROR] [TurnoService:74] No se encontró un turno con id: 1
+[2022-12-12 12:04:01] [ INFO ] [OdontologoService:54] Se están listando los odontólogos
+[2022-12-12 12:04:05] [ INFO ] [OdontologoService:28] Se inició el guardado de un odontólogo con apellido: Montero
+[2022-12-12 12:04:06] [ INFO ] [OdontologoService:54] Se están listando los odontólogos
+[2022-12-12 12:04:09] [ INFO ] [OdontologoService:49] Se inició la búsqueda del odontólogo con id: 1
+[2022-12-12 12:04:10] [ INFO ] [OdontologoService:49] Se inició la búsqueda del odontólogo con id: 1
+[2022-12-12 12:04:13] [ INFO ] [OdontologoService:49] Se inició la búsqueda del odontólogo con id: 1
+[2022-12-12 12:04:13] [ INFO ] [OdontologoService:44] Se inició la actualización del odontólogo con id: 1
+[2022-12-12 12:04:13] [ INFO ] [OdontologoService:54] Se están listando los odontólogos
+[2022-12-12 12:04:15] [ INFO ] [OdontologoService:49] Se inició la búsqueda del odontólogo con id: 1
+[2022-12-12 12:04:26] [ INFO ] [PacienteService:25] Se inició el guardado de un paciente con apellido: Montero
+[2022-12-12 12:04:27] [ INFO ] [PacienteService:51] Se están listando los pacientes
+[2022-12-12 12:04:28] [ INFO ] [PacienteService:46] Se inició la búsqueda del paciente con id: 1
+[2022-12-12 12:04:32] [ INFO ] [PacienteService:46] Se inició la búsqueda del paciente con id: 1
+[2022-12-12 12:04:32] [ INFO ] [PacienteService:41] Se inició la actualización del paciente con id: 1
+[2022-12-12 12:04:32] [ INFO ] [PacienteService:51] Se están listando los pacientes
+[2022-12-12 12:04:35] [ INFO ] [PacienteService:46] Se inició la búsqueda del paciente con id: 1
+[2022-12-12 12:04:43] [ ERROR] [GlobalException:23] Error, el sistema detectó un problema, se registró el siguiente mensaje: No se puede registrar el turno ya que el paciente u odontólogo no existe en la base de datos
+[2022-12-12 12:04:55] [ INFO ] [TurnoService:40] Se registró un turno para la fecha 2022-12-13
+[2022-12-12 12:04:57] [ INFO ] [PacienteService:51] Se están listando los pacientes
+[2022-12-12 12:04:59] [ INFO ] [PacienteService:46] Se inició la búsqueda del paciente con id: 1
+[2022-12-12 12:05:35] [ INFO ] [TurnoService:80] Se inició la búsqueda de los turnos
+[2022-12-12 12:05:40] [ INFO ] [TurnoService:71] Se inició la búsqueda del turno con id: 1
+[2022-12-12 12:05:42] [ WARN ] [TurnoService:55] Se eliminó un turno con id: 1
+[2022-12-12 12:05:44] [ INFO ] [OdontologoService:54] Se están listando los odontólogos
+[2022-12-12 12:05:46] [ INFO ] [OdontologoService:49] Se inició la búsqueda del odontólogo con id: 1
+[2022-12-12 12:05:46] [ WARN ] [OdontologoService:36] Se inició la eliminación del odontólogo con id: 1
+[2024-05-16 15:26:56] [ INFO ] [OdontologoService:54] Se están listando los odontólogos
+[2024-05-16 15:27:07] [ INFO ] [OdontologoService:28] Se inició el guardado de un odontólogo con apellido: Montero
+[2024-05-16 15:27:10] [ INFO ] [OdontologoService:54] Se están listando los odontólogos
+[2024-05-16 15:27:13] [ INFO ] [OdontologoService:49] Se inició la búsqueda del odontólogo con id: 1
+[2024-05-16 15:27:16] [ INFO ] [OdontologoService:49] Se inició la búsqueda del odontólogo con id: 1
+[2024-05-16 15:27:16] [ INFO ] [OdontologoService:44] Se inició la actualización del odontólogo con id: 1
+[2024-05-16 15:27:16] [ INFO ] [OdontologoService:54] Se están listando los odontólogos
+[2024-05-16 15:27:18] [ INFO ] [OdontologoService:49] Se inició la búsqueda del odontólogo con id: 1
+[2024-05-16 15:27:18] [ WARN ] [OdontologoService:36] Se inició la eliminación del odontólogo con id: 1
+[2024-05-16 15:27:22] [ INFO ] [OdontologoService:54] Se están listando los odontólogos
+[2024-05-16 15:27:25] [ INFO ] [PacienteService:51] Se están listando los pacientes
+[2024-05-16 15:31:46] [ INFO ] [OdontologoService:54] Se están listando los odontólogos
+[2024-05-16 15:33:09] [ INFO ] [OdontologoService:54] Se están listando los odontólogos
+[2024-05-16 15:33:10] [ INFO ] [OdontologoService:54] Se están listando los odontólogos
+[2024-05-16 15:33:19] [ INFO ] [OdontologoService:28] Se inició el guardado de un odontólogo con apellido: Montero
+[2024-05-16 15:33:21] [ INFO ] [OdontologoService:54] Se están listando los odontólogos
+[2024-05-16 15:33:40] [ INFO ] [PacienteService:25] Se inició el guardado de un paciente con apellido: Montero
+[2024-05-16 15:33:43] [ INFO ] [PacienteService:51] Se están listando los pacientes
+[2024-05-16 15:33:48] [ INFO ] [OdontologoService:54] Se están listando los odontólogos
+[2024-05-16 15:33:50] [ INFO ] [PacienteService:51] Se están listando los pacientes
+[2024-05-16 15:33:51] [ INFO ] [TurnoService:80] Se inició la búsqueda de los turnos
+[2024-05-16 15:34:02] [ INFO ] [TurnoService:40] Se registró un turno para la fecha 2024-05-17
+[2024-05-16 15:34:05] [ INFO ] [TurnoService:80] Se inició la búsqueda de los turnos
+[2024-05-16 15:37:19] [ INFO ] [TurnoService:71] Se inició la búsqueda del turno con id: 1
+[2024-05-16 15:37:25] [ INFO ] [TurnoService:71] Se inició la búsqueda del turno con id: 1
+[2024-05-16 15:37:25] [ INFO ] [PacienteService:46] Se inició la búsqueda del paciente con id: 1
+[2024-05-16 15:37:25] [ INFO ] [OdontologoService:49] Se inició la búsqueda del odontólogo con id: 2
+[2024-05-16 15:37:25] [ INFO ] [TurnoService:63] Se inició la actualización del turno con id: 1
+[2024-05-16 15:37:25] [ INFO ] [TurnoService:80] Se inició la búsqueda de los turnos
+[2024-05-16 15:37:27] [ INFO ] [TurnoService:71] Se inició la búsqueda del turno con id: 1
+[2024-05-16 15:37:30] [ INFO ] [TurnoService:80] Se inició la búsqueda de los turnos
+[2024-05-16 15:37:31] [ INFO ] [TurnoService:71] Se inició la búsqueda del turno con id: 1
+[2024-05-16 15:37:33] [ INFO ] [OdontologoService:54] Se están listando los odontólogos
